@@ -1,5 +1,3 @@
-from lib2to3.patcomp import tokenize_wrapper
-
 data = input().split(", ")
 row_count = int(data[0])
 col_count = int(data[1])
