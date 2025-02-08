@@ -1,0 +1,7 @@
+.py
+- - - Even Lines.py
+- - - File Manipulator.py
+- - - Line Numbers.py
+- - - directory traversal.py
+.txt
+- - - file1.txt
