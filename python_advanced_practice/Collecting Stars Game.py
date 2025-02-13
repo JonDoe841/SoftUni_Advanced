@@ -34,6 +34,7 @@ while True:
 
         if matrix[player[0]][player[1]] == "*":
             matrix[player[0]][player[1]] = "."
+
             stars +=1
 
         if stars == 10:
